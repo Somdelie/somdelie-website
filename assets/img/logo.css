@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@font-face { font-family:"Arial Black";src:url("#FontID1") format(svg)}
+@font-face { font-family:"Impact";src:url("#FontID0") format(svg)}
+.fil2 {fill:#2B2E3E}
+.fil0 {fill:#CB2028}
+.fil1 {fill:#CB2028}
+.fil3 {fill:#CB2028;fill-rule:nonzero}
+.fnt0 {font-weight:normal;font-size:2.60666px;font-family:'Impact'}
+.fnt1 {font-weight:900;font-size:5.1694px;font-family:'Arial Black'}
