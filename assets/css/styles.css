@@ -633,13 +633,14 @@ img {
   color: #fff;
   background: #1a2238;
   letter-spacing: 1px;
-  margin: 2px;
+  margin: 5px;
   font-size: 14px;
   padding-left: 1rem;
-  border: none;
+  border-bottom: 1px solid #00113f;
+  border-left: 1px solid #00113f;
   border-radius: 5px;
   outline: none;
-  box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #fff;
+
 }
 
 .form-control:focus {
@@ -857,12 +858,14 @@ textarea {
     display: inline-block;
     text-align: center;
     font-size: 1.5rem;
+    margin: 5px;
   }
   #demotext2 {
     text-align: right;
     display: inline-block;
     text-align: center;
     font-size: 1.5rem;
+    margin: 5px;
   }
   #demotext {
     font-size: 2rem;
